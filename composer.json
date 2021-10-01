@@ -1,0 +1,25 @@
+{
+    "name": "worksection/namecases",
+    "description": "NameCase class (make usable package from https://github.com/seagullua/NameCaseLib)",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Andrii Chaika",
+            "role": "Creator"
+        },
+        {
+            "name": "Vadym Dorokh",
+            "email": "vadymski@gmail.com",
+            "role": "Distributor"
+        }
+    ],
+    "version": "1.0.0",
+    "require": {
+        "php": ">=5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Worksection\\": "src/"
+        }
+    }
+}
