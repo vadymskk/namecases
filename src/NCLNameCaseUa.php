@@ -5,8 +5,6 @@
  */
 namespace Worksection;
 
-require_once dirname(__FILE__) . '/NCL/NCLNameCaseCore.php';
-
 /**
  * <b>NCL NameCase Ukranian Language</b>
  * 

@@ -6,15 +6,6 @@
  */
 namespace Worksection;
 
-if (!defined('NCL_DIR'))
-{
-	define('NCL_DIR', dirname(__FILE__));
-}
-
-require_once NCL_DIR . '/NCL.php';
-require_once NCL_DIR . '/NCLStr.php';
-require_once NCL_DIR . '/NCLNameCaseWord.php';
-
 /**
  * <b>NCL NameCase Core</b>
  *
